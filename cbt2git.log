@@ -1,0 +1,13 @@
+2025-04-14 00:07:22.809297 - Received CBT.V508.FILE919.PDS from FILE919.XMI 
+2025-04-14 00:07:22.810372 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE919.PDS, moved to PDS/$$$#DATE
+2025-04-14 00:07:22.810455 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE919.PDS, moved to PDS/$$NOTE01
+2025-04-14 00:07:22.810516 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE919.PDS, moved to PDS/$$NOTE02
+2025-04-14 00:07:22.810581 - Found $$NOTE03.txt (text/plain) in CBT.V508.FILE919.PDS, moved to PDS/$$NOTE03
+2025-04-14 00:07:22.810662 - Found $$UPDATE.txt (text/plain) in CBT.V508.FILE919.PDS, moved to PDS/$$UPDATE
+2025-04-14 00:07:22.810734 - Found @FILE919.txt (text/plain) in CBT.V508.FILE919.PDS, moved to PDS/@FILE919
+2025-04-14 00:07:22.822726 - Found BASHPAXZ.x-compress (application/x-compress) in CBT.V508.FILE919.PDS, moved to PDS/BASHPAXZ
+2025-04-14 00:07:22.822966 - Found INPUTRC.txt (text/plain) in CBT.V508.FILE919.PDS, moved to PDS/INPUTRC
+2025-04-14 00:07:22.823042 - Found INSTALL.jcl (text/plain) in CBT.V508.FILE919.PDS, moved to PDS/INSTALL
+2025-04-14 00:07:22.823110 - Found README.txt (text/plain) in CBT.V508.FILE919.PDS, moved to PDS/README
+2025-04-14 00:07:22.823222 - Found README2.txt (text/plain) in CBT.V508.FILE919.PDS, moved to PDS/README2
+2025-04-14 00:07:22.823316 - Found TESTS.jcl (text/plain) in CBT.V508.FILE919.PDS, moved to PDS/TESTS
